@@ -1,13 +1,12 @@
 # GitHub Tutorial
 
-_by Charlie Eydman_
+_By: Charlie Eydman_
 
 ---
 ## Git vs. GitHub
-Git
+***Git:*** Git is a control system that regulates and tracks changes in files or code. Is is also used for collaborating with other people and sharing code.
 
-
-Github
+***Github:*** Github is a company that hosts the program Git and is currently owned by Microsoft.
 
 ---
 ## Initial Setup
@@ -22,7 +21,7 @@ Github
 ---
 ## Workflow & Commands
 
-#### Commands like `git status`, `git add`, `git commit`, `git add` regulate and help with orginization and workflow of code. Here is what each one means and how to use them:
+***Commands like `git status`, `git add`, `git commit`, `git add` regulate and help with orginization and workflow of code. Here is what each one means and how to use them:***
 
  `git status` is a command that shows the current state of your stageing directory. `git status` can be used anytime you want to check if your files are staged or unstaged.
 
