@@ -20,8 +20,9 @@ _By: Charlie Eydman_
 ---
 ## Repository Setup
 
+***You should explain the difference between a directory and a repository!***
 
-When in the repository, commands like `init`, `add`, and `commit`are commonly used because they regulate the code. 
+When in the repository, commands like `init`, `add`, and `commit`are commonly used because they regulate the code.
 
 ***Github Repository:*** To setup your first Github reporitory, click the plus icon on the top right of your github home screen and click new repository. Then enter a repository name and click Create Repository on the bottom.
 
