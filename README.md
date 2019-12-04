@@ -21,7 +21,7 @@ _By: Charlie Eydman_
 ## Repository Setup
 
 
-When in the repository, commands like `init`, `add`, and `commit`are commonly used because they regulate the code. 
+When in the repository, commands like `init`, `add`, and `commit`are commonly used because they regulate the code. It is also very important not to get a directory condused with a repository. A directory is just a folder while a repository is a folder that stores code and development items.
 
 ***Github Repository:*** To setup your first Github reporitory, click the plus icon on the top right of your github home screen and click new repository. Then enter a repository name and click Create Repository on the bottom.
 
@@ -46,3 +46,11 @@ When in the repository, commands like `init`, `add`, and `commit`are commonly us
 ## Rolling Back Changes
 
 ***Undo/Roll Back Changes:*** There are 2 ways to undo and roll back changes to a file. The first would be to simply change your file to what you want it to be and then typing `git add`, `git commit`, and `git push`. The second way to roll back changes is to type `git log` find the version that you want to go back to. Then type `git revert _____`and the file will return to the version that you selected. After either doing so, your file should say what you want it to say.
+
+---
+## Error Handling
+
+***`git init` Removal:*** If you have typed `git init` and initialized git in the wrong directory, simply type `rm -rf git.`.
+
+
+***Remove Repository: *** To at anytime remove a repository, type the command `rmdir (file name)`. This command will ask you to type `y` or `n` for yes and no to complete the action. If you want remove something without question or git confirming it type `rm -rf` in the beginning of your command.
