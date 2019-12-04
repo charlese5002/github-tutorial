@@ -53,4 +53,4 @@ When in the repository, commands like `init`, `add`, and `commit`are commonly us
 ***`git init` Removal:*** If you have typed `git init` and initialized git in the wrong directory, simply type `rm -rf git.`.
 
 
-***Remove Repository: *** To at anytime remove a repository, type the command `rmdir (file name)`. This command will ask you to type `y` or `n` for yes and no to complete the action. If you want remove something without question or git confirming it type `rm -rf` in the beginning of your command.
+***Remove Repository:*** To at anytime remove a repository, type the command `rmdir (file name)`. This command will ask you to type `y` or `n` for yes and no to complete the action. If you want remove something without question or git confirming it type `rm -rf` in the beginning of your command.
